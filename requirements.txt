@@ -1,3 +1,7 @@
 pandas
 streamlit
 pyodbc
+sklearn
+flask
+matplotlib
+scikit-learn
